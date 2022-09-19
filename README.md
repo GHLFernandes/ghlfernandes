@@ -14,4 +14,4 @@
 <img align="center" alt="ReactJs" src="https://img.shields.io/badge/PostgreSql-blue?style=for-the-badge&logo=postgresql&logoColor=white"> 
 </div><br>
 
-### Email para contato: gf.leitefernandes@gmail.com
+### Email para contato: gh.leitefernandes@gmail.com
