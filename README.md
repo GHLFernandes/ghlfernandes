@@ -16,9 +16,9 @@
 
 ### Projetos Desenvolvidos
 
-https://gf-pastas.vercel.app/
-https://gf-studies.vercel.app/
-https://organo-coral.vercel.app/
+https://gf-pastas.vercel.app/<br>
+https://gf-studies.vercel.app/<br>
+https://organo-coral.vercel.app/<br>
 https://spense-landing-page-pi.vercel.app/
 
 ### Email para contato: gh.leitefernandes@gmail.com
