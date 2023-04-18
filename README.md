@@ -14,4 +14,11 @@
 <img align="center" alt="ReactJs" src="https://img.shields.io/badge/PostgreSql-blue?style=for-the-badge&logo=postgresql&logoColor=white"> 
 </div><br>
 
+### Projetos Desenvolvidos
+
+https://gf-pastas.vercel.app/
+https://gf-studies.vercel.app/
+https://organo-coral.vercel.app/
+https://spense-landing-page-pi.vercel.app/
+
 ### Email para contato: gh.leitefernandes@gmail.com
