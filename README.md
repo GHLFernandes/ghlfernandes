@@ -1,5 +1,5 @@
-## Olá, eu sou o Gabriel Fernandes ✌️
-### Desenvolvedor WEB
+## Hi, I am Gabriel Fernandes ✌️
+### WEB Developer
 ### I am a committed professional, with a passion for technology and innovation. Since the beginning of my career, I have worked hard to enhance my skills and knowledge in web development, and I am always looking to learn more.
 
 [![linkdl](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghfernandes/)<br>
@@ -15,11 +15,11 @@
 <img align="center" alt="ReactJs" src="https://img.shields.io/badge/PostgreSql-blue?style=for-the-badge&logo=postgresql&logoColor=white"> 
 </div><br>
 
-### Projetos Desenvolvidos
+### Developed Projects
 
 https://gf-pastas.vercel.app/<br>
 https://gf-studies.vercel.app/<br>
 https://organo-coral.vercel.app/<br>
 https://spense-landing-page-pi.vercel.app/
 
-### Email para contato: gh.leitefernandes@gmail.com
+### E-mail: gh.leitefernandes@gmail.com
