@@ -1,5 +1,6 @@
 ## Olá, eu sou o Gabriel Fernandes ✌️
 ### Desenvolvedor WEB
+### I am a committed professional, with a passion for technology and innovation. Since the beginning of my career, I have worked hard to enhance my skills and knowledge in web development, and I am always looking to learn more.
 
 [![linkdl](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghfernandes/)<br>
 [![GHLFernandes's GitHub stats](https://github-readme-stats.vercel.app/api?username=GHLFernandes&theme=dracula)](https://github.com/GHLFernandes/github-readme-stats)
